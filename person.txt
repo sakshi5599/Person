@@ -16,7 +16,7 @@ public static void main(String[]args){
 
 
 person p1=new person("vishal","22","pune");
-Sysout(p1);
+System.out.println(p1);
 
 }
 
