@@ -1,0 +1,23 @@
+class person{
+
+String name;
+String id;
+String city;
+}
+public void person(String name, String id,String city){
+
+this.name=name;
+this.id=id;
+this.city=city;
+}
+
+public class App{
+public static void main(String[]args){
+
+
+person p1=new person("vishal","22","pune");
+Sysout(p1);
+
+}
+
+}
